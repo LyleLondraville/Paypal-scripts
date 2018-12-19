@@ -102,22 +102,5 @@ def taxTheFuckUp(directory, inAndOut, csvFile, xlxsName):
 	text.close()
 	workbook.close()
 
-#taxTheFuckUp('/Users/lylelondraville/Desktop/2016/January', 'in', 'January.CSV', 'January_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/February', 'in', 'February.CSV', 'February_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/March', 'in', 'March.CSV', 'March_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/April', 'in', 'April.CSV', 'April_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/May', 'in', 'May.CSV', 'May_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/June', 'in', 'June.CSV', 'June_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/July', 'in', 'July.CSV', 'July_in_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/August', 'in', 'August.CSV', 'August_in_2016.xlsx')
 
-
-#taxTheFuckUp('/Users/lylelondraville/Desktop/2016/January', 'out', 'January.CSV', 'January_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/February', 'out', 'February.CSV', 'February_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/March', 'out', 'March.CSV', 'March_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/April', 'out', 'April.CSV', 'April_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/May', 'out', 'May.CSV', 'May_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/June', 'out', 'June.CSV', 'June_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/July', 'out', 'July.CSV', 'July_out_2016.xlsx')
-taxTheFuckUp('/Users/lylelondraville/Desktop/2016/August', 'out', 'August.CSV', 'August_out_2016.xlsx')
 

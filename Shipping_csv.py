@@ -2,7 +2,7 @@
 
 import csv, xlsxwriter, itertools, datetime 
 
-workbook = xlsxwriter.Workbook('Febuary_Shipping_2016.xlsx')
+workbook = xlsxwriter.Workbook('')
 worksheet = workbook.add_worksheet()
 
 list1 = []
@@ -19,7 +19,7 @@ def time():
 
 time()
 
-text = open('Febuary_2016.csv')
+text = open('')
 
 
 data = csv.reader(text)
